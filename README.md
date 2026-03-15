@@ -15,7 +15,7 @@ The objective of this project is to analyze the online retail store’s sales da
 - Performed data aggregation by month, country, and customer.
 - Built visualizations to analyze revenue trends, top countries, top customers, and global demand.
 ## Dashboard 
-<a href ="https://github.com/komal-3003/Data-Analysis-Dashboard1/blob/main/PowerBI-Dashboard.png"> </a>
+<a href ="https://github.com/komal-3003/Data-Analysis-Dashboard1/blob/main/PowerBI-Dashboard.png">View Dashboard</a>
 ## Project Insights
 - Revenue shows seasonal growth with higher sales toward the end of the year.
 - Several countries outside the UK generate significant revenue and product demand.
